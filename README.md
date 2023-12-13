@@ -7,11 +7,13 @@ projects.
 
 ## Table of Contents
 
+- [About the projiect](#about-the-projiect)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
+- [Idea and Design](#idea-and-design)
 
 ## Introduction
 
@@ -59,5 +61,9 @@ navigation menu.
 
 ## Contributing
 
-If you'd like to contribute to the project, feel free to fork the repository and
-submit pull requests.
+Idea and Design If you'd like to contribute to the project, feel free to fork
+the repository and submit pull requests.
+
+## Idea and Design
+
+- Idea and Design produced by: [GoIT](https://goit.global/ua/)
