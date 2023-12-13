@@ -34,8 +34,8 @@ navigation menu.
 ## Technologies Used
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- [CSS] (https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Getting Started
 
