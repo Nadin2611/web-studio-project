@@ -35,9 +35,9 @@ navigation menu.
 
 <a name="technologies-used"></a>
 
-- [![HTML][HTML.com]][HTML-url]
-- [![CSS][CSS.com]][CSS-url]
-- [![JavaScript][JavaScirpt.com]][JavaScript-url]
+- [[HTML][HTML.com]][HTML-url]
+- [[CSS][CSS.com]][CSS-url]
+- [[JavaScript][JavaScirpt.com]][JavaScript-url]
 
 ## Getting Started
 
