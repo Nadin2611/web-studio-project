@@ -1,6 +1,6 @@
-#WebStudio
+# WebStudio
 
-About the projiect
+## About the projiect
 
 This is a simple website for a web studio, showcasing their services, team, and
 projects.
